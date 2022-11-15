@@ -4,6 +4,8 @@ The function converts an array of images and adds the format and size to the cla
 ## Formats
 The format of the image is added to the class attribute as `img-[format]` and `img-[size]`.
 
+Formats: `landscape`, `portrait`, `square`
+
 ## Sizes
 The image dimensions are determined by the natural dimensions of the image and convereted to a human readable size to be used for styling purposes. The size is derviced from the pixel size of the image, not the file size.
 
