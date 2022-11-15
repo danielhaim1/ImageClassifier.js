@@ -1,4 +1,4 @@
-# imgClassifier
+# Image Classifier
 The function converts an array of images and adds the format and size to the class attribute for each image, which is useful for styling images based on their format and size.
 
 ## Formats
