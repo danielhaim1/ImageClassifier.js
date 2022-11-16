@@ -8,7 +8,7 @@ Formats: `landscape`, `portrait`, `square`
 
 ## Size
 
-The image dimensions are determined by the natural dimensions of the image and convereted to a human readable size to be used for styling purposes.
+The image dimensions are determined by the natural dimensions of the image and converted to a human-readable size to be used for styling purposes.
 
 The size is derived from the pixel size of the image, not the file size.
 
